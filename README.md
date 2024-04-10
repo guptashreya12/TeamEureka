@@ -18,20 +18,21 @@ GoodNight is a comprehensive solution designed to enhance sleep quality through 
 ![Screenshot 2024-03-31 235447](https://github.com/Prakriti2901/TeamEureka/assets/122342001/39aa8daa-f175-4eeb-b424-8b4e2fae754c)
 
 
-📌 Table of Contents
+## 📌 Table of Contents
 
-Toolchain
-Features
-Resources
-Authors
-Bug Reporting
-Feature Requests
-💻 Toolchain
-Frontend: Flutter
-Backend: Flask
-Libraries: Pandas, Numpy, Plotly
-APIs: Flask API for backend integration
-Other: Dialogflow for AI-driven chat support, Git for version control, Visual Studio Code as the primary IDE
+# Toolchain
+# Features
+# Resources
+# Authors
+# Bug Reporting
+# Feature Requests
+
+## 💻 Toolchain
+ # 1)Frontend: Flutter
+ # 2) Backend: Flask
+ # 3)Libraries: Pandas, Numpy, Plotly
+ # 4)APIs: Flask API for backend integration
+ # 5)Other: Dialogflow for AI-driven chat support, Git for version control, Visual Studio Code as the primary IDE
 
 ## 🚀 Features
 Personalized Sleep Insights: Leveraging ML models for custom sleep quality assessments and disorder predictions.
